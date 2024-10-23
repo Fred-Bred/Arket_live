@@ -16,3 +16,6 @@ Binomial fordeling:
 $$p(X=x)=\frac{N!}{x!\cdot(N-x)!}\cdot\pi^x\cdot(1-\pi)^{N-x}$$
 
 π = Sandsynligheden for succes
+
+## SPSS
+![Pasted image 20241023113936.png](/img/user/attachments/Pasted%20image%2020241023113936.png)![Pasted image 20241023113942.png](/img/user/attachments/Pasted%20image%2020241023113942.png)![Pasted image 20241023113947.png](/img/user/attachments/Pasted%20image%2020241023113947.png)

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Korrelation/"}
 ---
 
-
+# Korrelation
 > Forskningsspørgsmål: Hvad er korrelationen mellem stress og depression?				
 
 

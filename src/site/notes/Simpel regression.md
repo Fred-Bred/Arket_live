@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Simpel regression/"}
 ---
 
-
+# Simpel regression
 Brug af en enkelt uafhængig variabel til at prædiktere en afhængig variabel ved at finde en lineær model. $$y = ax + b$$
 $y = \text{afhængig variabel}$
 $x = \text{uafhængig variabel}$
