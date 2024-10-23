@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/korrelation/"}
+{"dg-publish":true,"permalink":"/Korrelation/"}
 ---
 
 

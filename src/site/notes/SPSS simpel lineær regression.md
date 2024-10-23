@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spss-simpel-lineaer-regression/"}
+{"dg-publish":true,"permalink":"/SPSS simpel lineær regression/"}
 ---
 
 

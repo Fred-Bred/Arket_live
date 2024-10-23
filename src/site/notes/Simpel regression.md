@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/simpel-regression/"}
+{"dg-publish":true,"permalink":"/Simpel regression/"}
 ---
 
 

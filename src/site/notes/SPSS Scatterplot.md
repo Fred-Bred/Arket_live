@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spss-scatterplot/"}
+{"dg-publish":true,"permalink":"/SPSS Scatterplot/"}
 ---
 
 

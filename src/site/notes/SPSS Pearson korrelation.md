@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spss-pearson-korrelation/"}
+{"dg-publish":true,"permalink":"/SPSS Pearson korrelation/"}
 ---
 
 

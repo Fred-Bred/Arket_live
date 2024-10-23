@@ -1,15 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/HOME/","tags":["gardenEntry"]}
 ---
 
 # Calcument Stat *Arket*
+Velkommen til *Arket*. Dette er en online interaktiv udgave, hvor du kan gennemgå noter og finde SPSS-guides til diverse tests og analyser fra statistikpensum på psykologiuddannelsen på KU.
+
+Calcument Stat Arket findes også som et Excel-ark der kan regne en del tests for dig. Det kan du downloade [her](https://www.github.com/Fred-Bred/Arket).
+
 Generelle noter:
 - [[Reliabilitet og validitet\|Reliabilitet og validitet]]
 - [[Deskriptiv statistik\|Deskriptiv statistik]]
 - [[Symbolforklaring\|Symbolforklaring]]
+- [[Binomial test\|Binomial test]]
 - Power
 	- [[Hvad påvirker power\|Hvad påvirker power]]
-	- [[Post-hoc power binominal-test\|Post-hoc power binominal-test]]
 	- [[Power i t-tests\|Power i t-tests]]
 - [[Missing data\|Missing data]]
 - [[Tabeller (til opslag)\|Tabeller (til opslag)]]
