@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Hvad påvirker power/"}
 ---
 
+# Hvad påvirker power?
 Power definition:
 > Angiver andelen af identiske undersøgelser, hvor vi kan forvente at eftervise at den nye behandling er bedre (sandheden)
 

@@ -16,7 +16,6 @@ Calcument Stat Arket findes også som et Excel-ark der kan regne en del tests fo
 	- [[Hvad påvirker power\|Hvad påvirker power]]
 	- [[Power i t-tests\|Power i t-tests]]
 - [[Missing data\|Missing data]]
-- [[Tabeller (til opslag)\|Tabeller (til opslag)]]
 - [[Probability\|Probability]]
 - [[Glossary\|Glossary]]
 
